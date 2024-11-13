@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamiroAgustinCuello
 - 👀 I’m interested in learning about coding and actively participate in projects. 
-- 🌱 I’m currently learning Python and Data Science. In the next year, I´ll be studying Data Science in UBA (Universidad de Buenos Aires) in Argentina. Also, I´m about to graduate as a Nutrition Technician and I´m football video analyst.
+- 🌱 I’m currently learning Python and Data Science. Recently, I graduated from a Data Science course dicted by the UTN (Universidad Tecnológica Nacional - From Argentina) and I´m starting to look deep into this area. In the next year, I´ll be studying Data Science in UBA (Universidad de Buenos Aires) in Argentina. Also, I´m about to graduate as a Nutrition Technician and I´m football video analyst.
 - 💞️ I’m looking to collaborate on cool and atractives projects, preferentially about nutrition or sports. But I´m open to work in another type of projects. 
 - 📫 How to reach me: You can contact me in cuelloramiro.ds@gmail.com
 - 😄 Pronouns: He/him
